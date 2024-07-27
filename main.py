@@ -11,5 +11,5 @@ if (coding):
             nwords.append(stnew)
         else:
             nwords.append(word[::-1])
-            print(" ".join(nwords))
-            
+    print(" ".join(nwords))
+
