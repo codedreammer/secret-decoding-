@@ -1,4 +1,7 @@
-st = input("Enter message ")
+#made without watching tutorial and i cooked 
+#if you have any idea what's worng in this please send a pull request 
+
+'''st = input("Enter message ")
 words = st.split(" ")
 coding = False
 if (coding):
@@ -23,3 +26,4 @@ else:
         else:
             nwords.append(word[::-1])
     print(" ".join(nwords))
+'''
