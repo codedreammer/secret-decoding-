@@ -1,4 +1,8 @@
+#made without watching tutorial and i cooked 
+#if you have any idea what's worng in this please send a pull request 
 
+
+'''
 
 import random
 
@@ -90,3 +94,4 @@ elif Choice == 2:
         final = final + Decrypt(words[i]) + " "
     
     print(final)
+'''
